@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es" authors="AnaMaria Seglie">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11318</md:content-id>
     <md:title>Spanish Language/Clase de lenguaje</md:title>
     <md:language>es</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>c0a915c6-aa2c-45ff-b1a6-5e81d8ce3d37</md:uuid>
-<md:slug>spanish-language-clase-de-lenguaje</md:slug>
-</metadata>
+    <md:slug>spanish-language-clase-de-lenguaje</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Reading Passages/Lecturas</md:title>
